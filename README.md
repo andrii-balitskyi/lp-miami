@@ -4,5 +4,6 @@ Technologies used in project:
 
 - HTML5
 - CSS3 (SCSS)
+- JavaScript
 - Figma
 - BEM-methodology
